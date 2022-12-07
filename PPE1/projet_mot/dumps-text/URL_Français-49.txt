@@ -1,0 +1,465 @@
+   #Nomade » Flux Nomade » Flux des commentaires Nomade » Vivre le
+   dépaysement autrement Flux des commentaires alternate alternate
+   alternate
+
+   Image
+
+Nomade
+
+     * Destinations
+          + Afrique
+               o Afrique du Sud
+               o Burkina Faso
+               o Congo
+               o Ghana
+               o Madagascar
+               o Malawi
+               o Maroc
+               o Sénégal
+               o Tunisie
+               o Zambie
+          + Amérique centrale
+               o Costa Rica
+               o Honduras
+               o Guatemala
+               o Nicaragua
+               o Panama
+          + Amérique du Nord
+               o Canada
+                    # Alberta
+                    # Colombie-Britannique
+                    # Île-du-Prince-Édouard
+                    # Manitoba
+                    # Nouveau-Brunswick
+                    # Ontario
+                    # Québec
+               o Cuba
+               o États-Unis
+               o Haïti
+               o Mexique
+          + Amérique du Sud
+               o Argentine
+               o Aruba
+               o Bolivie
+               o Brésil
+               o Chili
+               o Colombie
+               o Curaçao
+               o Guyane Française
+               o Pérou
+               o Suriname
+          + Asie
+               o Birmanie
+               o Chine
+               o Corée du Sud
+               o Émirats Arabes Unis
+               o Koweït
+               o Inde
+               o Indonésie
+               o Japon
+               o Jordanie
+               o Laos
+               o Malaisie
+               o Maldives
+               o Mongolie
+               o Oman
+               o Philippines
+               o Singapour
+               o Sri Lanka
+               o Thaïlande
+               o Vietnam
+          + Europe
+               o Allemagne
+               o Angleterre
+               o Autriche
+               o Belgique
+               o Bosnie-Herzégovine
+               o Chypre
+               o Croatie
+               o Danemark
+               o Écosse
+               o Espagne
+               o Estonie
+               o France
+               o Géorgie
+               o Grèce
+               o Hongrie
+               o Irlande
+               o Islande
+               o Italie
+               o Lituanie
+               o Norvège
+               o Pays-Bas
+               o Pologne
+               o Portugal
+               o Roumanie
+               o Russie
+               o Slovénie
+               o Suède
+               o Turquie
+          + Oceanie
+               o Australie
+               o Fidji
+               o Îles Cook
+               o Îles Samoa
+               o Nouvelle-Calédonie
+               o Nouvelle-Zélande
+               o Papouasie Nouvelle-Guinée
+               o Polynésie française
+               o Tanzanie
+     * Explore le Québec
+          + Abitibi-Témiscamingue
+          + Bas-Saint-Laurent
+          + Cantons-de-l’Est
+          + Centre-du-Québec
+          + Charlevoix
+          + Chaudière-Appalaches
+          + Côte-Nord
+          + Eeyou Istchee Baie-James
+          + Gaspésie
+          + Îles-de-la-Madeleine
+          + Lanaudière
+          + Laurentides
+          + Laval
+          + Mauricie
+          + Montérégie
+          + Montréal et région
+          + Nunavik
+          + Outaouais
+          + Québec et région
+          + Saguenay–Lac-Saint-Jean
+     * Aventure & Plein air
+     * Réflexions
+     * Trucs & conseils
+     * Actualité
+     * Boutique
+
+   ____________________
+
+     * Destinations
+          + Afrique
+               o Afrique du Sud
+               o Burkina Faso
+               o Congo
+               o Ghana
+               o Madagascar
+               o Malawi
+               o Maroc
+               o Sénégal
+               o Tunisie
+               o Zambie
+          + Amérique centrale
+               o Costa Rica
+               o Honduras
+               o Guatemala
+               o Nicaragua
+               o Panama
+          + Amérique du Nord
+               o Canada
+                    # Alberta
+                    # Colombie-Britannique
+                    # Île-du-Prince-Édouard
+                    # Manitoba
+                    # Nouveau-Brunswick
+                    # Ontario
+                    # Québec
+               o Cuba
+               o États-Unis
+               o Haïti
+               o Mexique
+          + Amérique du Sud
+               o Argentine
+               o Aruba
+               o Bolivie
+               o Brésil
+               o Chili
+               o Colombie
+               o Curaçao
+               o Guyane Française
+               o Pérou
+               o Suriname
+          + Asie
+               o Birmanie
+               o Chine
+               o Corée du Sud
+               o Émirats Arabes Unis
+               o Koweït
+               o Inde
+               o Indonésie
+               o Japon
+               o Jordanie
+               o Laos
+               o Malaisie
+               o Maldives
+               o Mongolie
+               o Oman
+               o Philippines
+               o Singapour
+               o Sri Lanka
+               o Thaïlande
+               o Vietnam
+          + Europe
+               o Allemagne
+               o Angleterre
+               o Autriche
+               o Belgique
+               o Bosnie-Herzégovine
+               o Chypre
+               o Croatie
+               o Danemark
+               o Écosse
+               o Espagne
+               o Estonie
+               o France
+               o Géorgie
+               o Grèce
+               o Hongrie
+               o Irlande
+               o Islande
+               o Italie
+               o Lituanie
+               o Norvège
+               o Pays-Bas
+               o Pologne
+               o Portugal
+               o Roumanie
+               o Russie
+               o Slovénie
+               o Suède
+               o Turquie
+          + Oceanie
+               o Australie
+               o Fidji
+               o Îles Cook
+               o Îles Samoa
+               o Nouvelle-Calédonie
+               o Nouvelle-Zélande
+               o Papouasie Nouvelle-Guinée
+               o Polynésie française
+               o Tanzanie
+     * Explore le Québec
+          + Abitibi-Témiscamingue
+          + Bas-Saint-Laurent
+          + Cantons-de-l’Est
+          + Centre-du-Québec
+          + Charlevoix
+          + Chaudière-Appalaches
+          + Côte-Nord
+          + Eeyou Istchee Baie-James
+          + Gaspésie
+          + Îles-de-la-Madeleine
+          + Lanaudière
+          + Laurentides
+          + Laval
+          + Mauricie
+          + Montérégie
+          + Montréal et région
+          + Nunavik
+          + Outaouais
+          + Québec et région
+          + Saguenay–Lac-Saint-Jean
+     * Aventure & Plein air
+     * Réflexions
+     * Trucs & conseils
+     * Actualité
+     * Boutique
+
+   Réflexions
+
+Vivre le dépaysement autrement
+
+   Par Collaborateurs spontanés  •  5 ans
+   05
+
+   Déc
+   2017
+   1
+   Partager
+   0
+   Commentaire
+   3
+   Aimer
+   Partager
+
+Vivre le dépaysement autrement
+
+Est-ce qu’on devient immunisé à l’émerveillement?
+
+   Une des merveilles du voyage est le fait de se se sentir hors de sa
+   zone de confort, de découvrir l’inconnu, de sentir des nouvelles
+   odeurs, de voir de nouvelles scènes de vie, d’entendre de nouvelles
+   langues, de se laisser surprendre par une nouvelle culture… C’est la
+   beauté du dépaysement! Parce que le monde est rempli de réalités
+   différentes qui surprennent, confrontent, impressionnent et inspirent.
+   C’est pour ça qu’on voyage, et c’est pour cela que le dépaysement nous
+   attire. On est avides d’apprendre et d’évoluer grâce à cette ouverture
+   sur le monde. Mais à force de voyager, est-ce que le dépaysement
+   s’apaise? À force de se promener autour du monde, est-ce qu’on devient
+   immunisé à l’émerveillement?
+
+   Ça nous a fait peur, parce qu’on s’est surprises à être blasées de
+   certaines réalités. Les temples d’Ayutthaya ne sont pas aussi
+   impressionnants après avoir vu les temples d’Angkor. Les plages
+   indiennes ne font pas le poids face aux Maldives. L’Annapurna ne génère
+   pas le même émerveillement que l’Everest. Un orphelinat d’éléphants
+   n’est pas aussi intéressant après avoir fait un safari en Tanzanie.
+   Prendre un tuk-tuk ne nous fait plus rire, ça fait mal aux fesses. La
+   vie dans les aéroports devient une routine au lieu d’un excitement
+   démesuré. On est embêtées par les gens qui nous demandent de prendre
+   des photos avec eux comme si on était l’une des 7 merveilles du monde.
+
+   Ces émotions négatives ont grandi petit à petit au fil des voyages.
+   Elles se sont infiltrées tranquillement, subtilement, et ont fini par
+   prendre plus de place qu’on l’aurait souhaité. On a réalisé que tout
+   n’est pas extraordinaire en voyage, et qu’il y a des coups de coeur,
+   mais aussi des déceptions. Et qu’à force de vivre tant de choses
+   exceptionnelles, des déceptions, il y en aurait de plus en plus. Alors
+   oui on a eu la frousse de perdre cette joie immense que les découvertes
+   provoquent! Était-ce le déclin de notre amour du voyage?
+
+   Mais on a fini par comprendre. Que non, ce n’est pas la fin, au
+   contraire. Le dépaysement et l’émerveillement sont toujours là, ils
+   sont juste différents. Et en un sens, plus fort. Ils résident
+   maintenant dans les souvenirs et les émotions. Ils ne sont plus autant
+   liés aux choses que l’on visite, mais à tout ce que ces choses
+   représentent. Et on est loin d’avoir tout vu, alors l’inconnu nous
+   surprendra toujours, mais le connu génère maintenant d’autres émotions
+   aussi fortes. La mer nous ramène à ce voyage marquant en Indonésie
+   durant lequel on a pris de grosses décisions de vie. La mélodie de Om
+   mani padme hum nous replonge dans le rues de Thamel qu’on connait par
+   coeur. On réagit différemment à plusieurs situations à cause de tout ce
+   qu’on a vu ailleurs. Une sirène de camion de pompiers ravive le
+   cauchemar de roquettes à Tel Aviv et nous fait réaliser qu’on est bien
+   au Québec. La vue d’une montagne de l’Himalaya provoque un sentiment de
+   paix au lieu d’une montée d’adrénaline. On est davantage déboussolées
+   par une douche chaude que par une douche glaciale. Les odeurs,
+   tellement d’odeurs qui nous font voyager aux 4 coins du monde. Ce
+   nouveau dépaysement, il nous suit partout, même chez nous. On le vit
+   juste d’une autre façon, et ce, à tous les jours. Il faut simplement
+   l’apprivoiser.
+
+   Article rédigé par La Fois Que…
+
+   …
+
+   À lire également sur Nomade Magazine :
+     * Et si la passion du voyage ne s’estompait jamais?
+     * Le voyage ma zone de confort
+     * Apprendre à ne pas comprendre
+     * Lettre à tous les voyageurs du monde
+
+   L'auteur
+   Collaborateurs spontanés
+
+Collaborateurs spontanés
+
+   L'équipe de Nomade Magazine compte plusieurs collaborateurs spontanés.
+   Si tu aimerais en faire partie, remplis le formulaire à cet effet sous
+   l'onglet "Devenir un contributeur" de notre site web.
+
+   Vous aimerez aussi
+   6 ans
+   Réflexions
+
+Le temps qui file
+
+   Lire la suite
+   Le temps qui file
+   5 ans
+   Réflexions
+
+L’ultime voyage, avant que la beauté de ce monde ne disparaisse…
+
+   Lire la suite
+   L’ultime voyage, avant que la beauté de ce monde ne disparaisse…
+   Soumettre un commentaire
+
+Annuler
+
+   Message*
+   __________________________________________________________
+   __________________________________________________________
+   __________________________________________________________
+   __________________________________________________________
+   __________________________________________________________
+   __________________________________________________________
+   __________________________________________________________
+   __________________________________________________________
+   Nom* ______________________
+   Courriel* ______________________
+   Site ____________________________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour
+   mon prochain commentaire.
+
+   Poster
+
+Rechercher
+
+   ____________________
+
+NOS SITES FAVORIS
+
+     * Billets d’avion : Skyscanner
+     * Auberges de jeunesse : Hostelworld
+     * Hôtels : Booking
+     * Location de voiture : Discover Cars
+
+Articles populaires
+
+     * Semaine
+     * Mois
+     * Toujours
+
+     * randonnées hivernales près de québec
+       5 randonnées hivernales près de Québec qui vont te réconcilier avec
+       l’hiver
+       324 Vues
+       Les avantages et les désavantages d’un voyage à long terme
+       216 Vues
+       7 hébergements uniques où vivre une escapade hivernale au Québec
+       176 Vues
+       Où voyager quand?
+       141 Vues
+       Chefchaouen : la ville bleue du Maroc
+       136 Vues
+       Lettre à moi-même
+       120 Vues
+     * Paysage de Vermillion Lakes dans les Rocheuses à l'automne
+       Visiter les Rocheuses canadiennes durant l’automne
+       29/11/2022
+       randonnées hivernales près de québec
+       5 randonnées hivernales près de Québec qui vont te réconcilier avec
+       l’hiver
+       28/11/2022
+       Ville de Québec décorée pour Noël
+       Pourquoi vous devez visiter Québec à Noël
+       23/11/2022
+       idées cadeaux pour voyageurs
+       9 idées cadeaux pour voyageurs – 100% québécois!
+       23/11/2022
+       Îles de la Madeleine en basse saison
+       Visiter les Îles de la Madeleine en basse saison
+       14/11/2022
+       Automne dans Chaudière-Appalaches : activités et bonnes adresses
+       07/11/2022
+
+   [INS: :INS]
+
+   Nomade est votre ressource pour les bons plans, conseils, infos et
+   nouvelles en lien avec le voyage et le plein air. Vous trouverez ici
+   tous les outils et l’inspiration nécessaires pour planifier votre
+   prochaine aventure!
+   © Nomade Magazine. Tous droits réservés.
+     * À propos
+     * Rédacteurs
+     * Nomade dans les médias
+     * Collaborations et partenariats
+     * Contact
+
+     * Boutique
+     * Points de vente
+     * Mentions légales
+     * Devenir un(e) contributeur(trice)
+
+   Top

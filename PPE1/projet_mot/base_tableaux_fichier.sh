@@ -1,20 +1,24 @@
 #!/usr/bin/env bash
 
 #===============================================================================
-# récupérer tous les URLs, codes, charsets dans un fichier .html à partir de leur entête.
-# curl  
+# VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
+# Ici, on décrit le comportement du programme.
+# Indiquez, entre autres, comment on lance le programme et quels sont
+# les paramètres.
+# La forme est indicative, sentez-vous libres d'en changer !
+# Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
 #===============================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
 
-if [[ $# -ne 2 ]] # deux arguments
+if [[ $# -ne 2 ]]
 then
 	echo "Ce programme demande exactement deux arguments."
 	exit
 fi
 
-mot="exam" # à modifier
+mot="[Dd]épaysement" # à modifier
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -23,16 +27,14 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th></tr>" >> $fichier_tableau
+echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump html</th><th>dump text</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
 	echo -e "\tURL : $URL";
-	# la façon attendue, sans l'option -w de CURL
+	# la façon attendue, sans l'option -w de cURL
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
-	# récupérer l'entête des URLs
-	# la ligne qui commence par HTTP et le trois chiffre de code
-	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+	charset=$(curl -Ls $URL -D - -o "./aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
 
 	# autre façon, avec l'option -w de cURL
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
@@ -59,9 +61,21 @@ while read -r URL; do
 		echo -e "\tcode différent de 200 utilisation d'un dump vide"
 		dump=""
 		charset=""
-	fi	
-	echo "$dump" > "$basename-$lineno.txt"
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> $fichier_tableau
+	fi
+  echo "$dump" > "./dumps-text/$basename-$lineno.txt"
+
+  # compte du nombre d'occurrences
+  NB_OCC=$(grep -E -o $mot ./dumps-text/$basename-$lineno.txt | wc -l)
+
+  # extraction des contextes
+
+  grep -E -A2 -B2 $mot ./dumps-text/$basename-$lineno.txt > ./contextes/$basename-$lineno.txt
+
+  # construction des concordance avec une commande externe
+
+  bash programme/concordance.sh ./dumps-text/$basename-$lineno.txt $mot > ./concordances/$basename-$lineno.html
+
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$NB_OCC</td><td><a href="../contextes/$basename-$lineno.txt">contextes</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
