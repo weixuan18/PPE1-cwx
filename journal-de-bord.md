@@ -1,7 +1,7 @@
 # Journal de bord du projet encadré
 
 
-### 1. Projet du mot (multilingue / en groupe)
+### Projet du mot (multilingue / en groupe)
 
 - Choisir un mot qu'on va étudier
 - Chercher et récupérer 50 sites web qui inclut ce mot
