@@ -21,8 +21,8 @@ Trois grandes parties :
     - Commandes git
 - Html 
     - Syntaxe du html
-    - Mise en forme
-
+    - Mise en forme 
+    - css
 
 
 ## Git （2022-09-28)
