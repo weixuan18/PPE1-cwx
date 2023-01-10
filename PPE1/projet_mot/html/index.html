@@ -1,0 +1,245 @@
+<html>
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>Dépaysement-exile-背井离乡</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"/>
+		<style>
+			*{
+				margin: 0;
+				padding: 0;
+			}
+
+			body {
+  				font-size: 17px;
+  				font-weight: 500;
+  				background-color: #d4c8b6;
+  				-webkit-font-smoothing: antialiased;
+				padding:30px;
+			}
+			
+			.title {
+				font-size: 22px;
+				font-weight: 900;
+				color: #6d584d;
+				text-align: left;
+				line-height: 25px;
+			}
+
+			hr{
+				background-color:#6d584d;
+				height: 1.3px;
+			}
+
+			p {
+				line-height: 1.5em;
+			}
+
+			.box {
+				width: 1200px;
+				height: 270px;
+				padding: 35px;
+				background-color: #ded1c1;
+				font-size: 14x;
+				margin : 0 auto;
+			}
+			
+			.box .column-box {
+				margin-top: 40px;
+				margin-left: 25px;
+				height: 250px;
+				width: 450px;
+			}
+
+			.container{
+				display: flex;
+				padding: 30px 0 70px 0;
+  				flex-wrap: wrap;
+  				justify-content: center;
+				align-items: center;
+				overflow: hidden;
+			}
+
+			.card {
+  				position: relative;
+ 				flex: 0 0 200px;
+ 				width: 160px;
+  				height: 280px;
+  				background-color: #333;
+				margin: 5px 10px;
+				cursor: pointer;
+  				overflow: hidden;
+  				border-radius: 10px;
+  				box-shadow:
+    				rgba(black, 0.66) 0 30px 60px 0,
+    				inset #333 0 0 0 5px,
+    				inset rgba(white, 0.5) 0 0 0 6px;
+  					transition: 1s;
+			}
+
+			.card:hover{
+				border: 1px solid #d4c8b6;
+				transition: 0.6s;
+			}
+			
+
+			.card .text h1{
+				inset:20px;
+				text-align: center;
+				color:rgb(253, 254, 254);
+				position: absolute;
+				margin: 8px 0 70px 0;
+				font-size: 24px;
+				font-weight: 600;
+				text-shadow: rgba(black, 0.5) 0 10px 10px;
+				transition: opacity 1s cubic-bezier(0.215, 0.61, 0.355, 1);
+			}
+
+			.container .card .content{
+				padding: 20px;
+				inset: 16px;
+				text-align: center;
+				transform: translateY(100px);
+				opacity:0;
+				transition: 0.6s;
+			}
+			.container .card:hover .content{
+				inset: 20px;
+				transform: translateY(-120%);
+                opacity: 1;
+				transition: 0.3s;
+			}
+
+			.container .card .content p{
+				inset:20px;
+				font-size: 14px;
+				color:#fff;
+                font-weight: 300px;
+                margin: 90px 0 15px 0;
+				text-transform: uppercase;
+				transform: translateY(0);
+				transition-delay: 0.6s;
+            }
+
+			.container .card .content p span{
+				font-weight: 800;
+			}
+			.container .card .content a{
+				position: relative;
+				display: inline-block;
+				padding: 8px 20px;
+				margin-top: 15px;
+				background-color: rgb(218, 213, 213);
+				color: #886e60;
+				border-radius: 20px;
+				font-size: 12px;
+				font-weight: 500;
+				text-decoration: none;
+				box-shadow: 0 5px 15px rgba(0, 0, 0，0.2);
+			}
+
+			.container .card .content p,
+			.container .card .content a{
+				opacity: 0;
+				transition: 0.5s;
+				transform: translateY(0%, 30%);
+			}
+			.container .card:hover .content p,
+			.container .card:hover .content a{
+				transform: translateY(0%, 0%);
+				transition-delay: 0.2s;
+                opacity: 1;
+			}
+
+			.card img{
+				width: 100%;
+				height: 100%;
+				opacity: 0.7;
+				transition: opacity 0.5s;
+			}
+
+			.card:hover img{
+				opacity: 0.2;
+				transition: opacity 0.5s;
+			}
+		</style>
+		<script type="text/javascript" src="JS/index.js"></script>
+		
+	</head>
+
+	<body>
+		<h1 class="title">Dépaysement<br>- exile<br>- 背井离乡<hr /></h1>
+			<div class="container">
+				<div class="card"><img src="../images/01.jpeg" alt="">
+					<div class="text">
+						<h1 slot="header">Présentation</h1>
+					</div>
+					<div class="content">
+    					<p>Choix des langues et choix du mot </p>
+						<a href="presentation.html">Apprendre plus</a>
+  					</div>
+				</div>
+				<div class="card"><img src="../images/02.jpg" alt="">
+					<div class="text">
+						<h1 slot="header">Tableaux</h1>
+					</div>
+					<div class="content">	
+    					<p slot="content">Tableaux de trois langues</p>
+						<a href="tables.html">Apprendre plus</a>
+					</div>
+				</div>
+				<div class="card"><img src="../images/03.jpg" alt="">
+					<div class="text">
+						<h1 slot="header">Itrameur</h1>
+					</div>
+					<div class="content">
+    					<p>Analyse textométrique</p>
+						<a href="itrameur.html">Apprendre plus</a>		
+  					</div>
+				</div>			
+				<div class="card"><img src="../images/04.jpg" alt="">
+					<div class="text">
+						<h1 slot="header">Nuages</h1>
+					</div>
+					<div class="content">
+    					<p slot="content">Nuages des mots</p>
+						<a href="nuage.html">Apprendre plus</a>		
+  					</div>
+				</div>
+				<div class="card"><img src="../images/05.jpg" alt="">
+					<div class="text">
+						<h1 slot="header">Conclusion</h1>
+					</div>
+					<div class="content">
+    					<p slot="content">Analyse globale</p>
+						<a href="conclusion.html">Apprendre plus</a>
+  					</div>
+				</div>
+			</div>
+
+		<div class="box">
+			<h2 class="subtitle  is-4">Description</h2>
+			<p>Sous le long fleuve de l'histoire, les mots sont comme des gouttes d'eau qui devraient avoir la même essence chimique coulent le long de l’eau, traversent différents bassins fluviaux, entrent en contact avec divers lavages géographiques et topographiques. En fin de compte, ce ne sont pas les mêmes, mais elles appartiennent au même fleuve et à la même mer.</p> 
+            <p>On se demande si vous avez déjà lu attentivement les différences subtiles entre les langues ? Alors prenons « <b>dépaysement</b> » comme exemple pour commencer un voyage d'explorations.</p>
+		</div>
+		<div class="box">
+			<h2 class="subtitle  is-4">Introduction</h2>
+			<p>Dans le monde des langues, la compréhension de chaque langue est profonde et nuancée. La culture, l’art, les croyances, les coutumes, les valeurs, etc. cachés derrière affecte et enrichit la sémantique d’une langue. En tant que partie indispensable de la culture, la langue a pour mission d’hériter de la culture et de l’histoire d’une part, et reflète la personnalité nationale unique d’autre part. C’est la raison des différences sémantiques dans le même mot dans différents contextes linguistiques, et c’est aussi un problème souvent rencontré dans la traduction. Même si la sens peut être fondamentalement équivalent dans le processus de traduction, parce qu’elle est dans des contextes linguistiques et culturels différents, il n’est pas difficile de constater que la portée de son utilisation et la sémantique de la tendance seront plus ou moins subtiles.</p>
+		</div>
+        <div class="box">
+			<h2 class="subtitle  is-4">Qui sommes-nous ? </h2>
+			<div class="columns">
+                <div class="column-box">
+					<h2 class="subtitle is-5">CHENG Weixuan</h2>
+				<p>Responsable pour l'analyse du corpus français</p></div>
+                <div class="column-box"><h2 class="subtitle is-5">HUANG Yidi</h2>
+				<p>Responsable pour l'analyse du corpus anglais</p></div>
+
+				<div class="column-box"><h2 class="subtitle is-5">ZHANG Xinhao</h2>
+				<p>Responsable pour l'analyse du corpus chinois</p></div>
+			</div>
+		</div>
+<p style="text-align: center;">
+		<img src="../images/base.jpg" width="98%" />
+	</body>
+</html>      
